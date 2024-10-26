@@ -400,7 +400,7 @@ print(f'+--------+--------+\n| Vardas | Amzius |\n+--------+--------+\n| Tomas |
 #     print('trecias / is 8')
 # else:
 #     print('visa kita')
-sss
-Ę# 2024-09-23- paskaita
-git config --global user.name "Teresiukas7777"
-git config --global user.email "teresasaviciute@gmail.com"
+# sss
+# 2024-09-23- paskaita
+# git config --global user.name "Teresiukas7777"
+# git config --global user.email "teresasaviciute@gmail.com"
