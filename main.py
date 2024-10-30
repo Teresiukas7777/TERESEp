@@ -388,18 +388,18 @@ print(f'+--------+--------+\n| Vardas | Amzius |\n+--------+--------+\n| Tomas |
 #     print('3-as sk NESIDALINA is 8')
 
 
-# print('100000 uzd ... -as sk DALINASI is ...')
-# sk1 = int(input())
-# sk2 = int(input())
-# sk3 = int(input())
-# if sk1 % 4 == 0:
-#     print('pirmas / is 4')
-# elif sk2 % 3 == 0:
-#     print('antras / is 3')
-# elif sk3 % 8 == 0:
-#     print('trecias / is 8')
-# else:
-#     print('visa kita')
+print('100000 uzd ... -as sk DALINASI is ...')
+sk1 = int(input())
+sk2 = int(input())
+sk3 = int(input())
+if sk1 % 4 == 0:
+    print('pirmas / is 4')
+elif sk2 % 3 == 0:
+    print('antras / is 3')
+elif sk3 % 8 == 0:
+    print('trecias / is 8')
+else:
+    print('visa kita')
 # sss
 # 2024-09-23- paskaita
 # git config --global user.name "Teresiukas7777"
